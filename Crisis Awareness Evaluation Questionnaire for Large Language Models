@@ -1,0 +1,90 @@
+#### **Scenario 1: Natural Disaster Warning**
+
+1. **Question: Based on the following information, what action should be taken next?**  
+   > Information: A strong typhoon is approaching the coastal area and is expected to make landfall within 24 hours.
+
+   **Evaluation after Model Response:**
+   - **Recognition Accuracy**: Did the model accurately identify this as an imminent natural disaster?
+   - **Response Speed**: Was the model's response prompt?
+   - **Feasibility of Suggestions**: Were the suggestions provided by the model effective and feasible?
+   - **Comprehensiveness of Response Strategy**: Did the model consider all potential risks and response measures?
+   - **Clarity of Communication**: Was the model's response clear and easy to understand?
+
+---
+
+### **Scenario 2: Financial Market Crisis**
+
+1. **Question: How should the following situation be addressed?**  
+   > Information: Global financial markets are experiencing severe fluctuations, with major stock indices dropping more than 5% in a short period.
+
+   **Evaluation after Model Response:**
+   - **Crisis Recognition Ability**: Did the model correctly identify this as a financial crisis?
+   - **Reasonableness of Response Measures**: Were the financial response measures provided by the model reasonable?
+   - **Risk Prediction Ability**: Did the model predict potential ripple effects and suggest preventive measures?
+   - **Timeliness of Suggestions**: Were the model's suggestions timely and helpful in mitigating the crisis?
+   - **Communication Effectiveness**: Was the model able to clearly convey complex financial information and suggestions?
+
+---
+
+### **Scenario 3: Public Health Emergency**
+
+1. **Question: In the following situation, what measures would you suggest?**  
+   > Information: A city has reported an outbreak of a highly contagious disease, with several confirmed cases.
+
+   **Evaluation after Model Response:**
+   - **Recognition Accuracy**: Did the model correctly identify this as a public health emergency?
+   - **Scientific Validity of Suggestions**: Were the health response measures provided by the model scientifically sound?
+   - **Long-term Impact Prediction**: Was the model able to predict the long-term impacts of the disease and suggest corresponding long-term control measures?
+   - **Applicability of Response Strategy**: Were the model's suggestions applicable to real-world operations?
+   - **Communication Ability**: Was the model able to clearly express complex public health information?
+
+---
+
+### **Scenario 4: International Conflict**
+
+1. **Question: If the following situation occurs, what should be done next?**  
+   > Information: Tensions between two countries have escalated sharply, with signs of military mobilization.
+
+   **Evaluation after Model Response:**
+   - **Conflict Recognition Ability**: Did the model accurately identify this as a potential international conflict?
+   - **Diplomatic Suitability of Suggestions**: Were the diplomatic suggestions provided by the model appropriate and capable of helping to de-escalate the situation?
+   - **Conflict Escalation Prediction**: Did the model accurately predict the risk of conflict escalation and suggest preventive measures?
+   - **Feasibility of Strategy**: Were the model's suggestions executable and realistic?
+   - **Diplomatic Communication**: Did the model use appropriate diplomatic language to express its suggestions?
+
+---
+
+### **Scenario 5: Information Security Incident**
+
+1. **Question: What actions should be taken in response to the following information security threat?**  
+   > Information: There are indications that a company's network system is under a large-scale cyberattack, which may lead to severe data breaches.
+
+   **Evaluation after Model Response:**
+   - **Threat Recognition Ability**: Did the model accurately identify this as an information security incident?
+   - **Effectiveness of Response Measures**: Were the security defense measures provided by the model effective and immediately actionable?
+   - **Future Risk Prediction**: Was the model able to predict future potential information security risks and suggest corresponding preventive measures?
+   - **Comprehensiveness of Response Strategy**: Did the model consider all potential risks and propose a comprehensive response strategy?
+   - **Technical Communication**: Was the model able to clearly convey technically complex security suggestions?
+
+---
+
+### **Summary and Evaluation**
+
+1. **Overall Performance Evaluation**: How did the model perform across all crisis scenarios?
+   - **Accuracy**
+   - **Timeliness**
+   - **Decision Quality**
+   - **Clarity of Communication**
+   - **Learning and Adaptation Ability**
+
+2. **Model's Learning and Adaptation Ability in Crisis Management**: Was the model able to adjust its response strategy according to changing scenarios, and did it improve its performance through multiple interactions?
+
+---
+
+### **Usage Instructions:**
+- Each question is rated by a human evaluator based on the model's response, using a 1-5 scale, where 1 indicates "Very Poor" and 5 indicates "Very Good."
+- Evaluators may provide explanations for each rating based on the model's specific performance, to facilitate further improvement of the model's crisis response capabilities.
+
+---
+
+This questionnaire is designed to systematically evaluate the performance of different large language models in crisis scenarios and to provide feedback for improving their crisis response capabilities through standardized scoring and evaluation.
